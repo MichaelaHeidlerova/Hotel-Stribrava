@@ -1,0 +1,16 @@
+[
+  {
+    "id": "101",
+    "nazev": "Pokoj u řeky",
+    "foto": "https://placekitten.com/400/300",
+    "popis": "Krásný pokoj s výhledem na řeku.",
+    "cenaZaNoc": 1200
+  },
+  {
+    "id": "102",
+    "nazev": "Lesní apartmán",
+    "foto": "https://placekitten.com/401/301",
+    "popis": "Útulné ubytování obklopené přírodou.",
+    "cenaZaNoc": 1500
+  }
+]
