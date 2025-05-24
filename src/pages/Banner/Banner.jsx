@@ -1,6 +1,4 @@
-
-
-export const HomePage = () => {
+export const Banner = () => {
   return (
 <div class="banner">
     <div class="banner__stripe">
