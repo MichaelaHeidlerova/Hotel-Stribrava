@@ -1,6 +1,5 @@
 export const Banner = () => {
   return (
-<div class="banner">
     <div class="banner__stripe">
       <div class="container">
         <h1>Hotel Stříbrava</h1>
@@ -9,6 +8,5 @@ export const Banner = () => {
         </p>
       </div>
     </div>
-  </div>
   )
 }

@@ -2,7 +2,7 @@
   return (
   <section class="dark">
     <div class="container columns-2">
-      <div class="columns">
+      <div class="column">
         <h2>Kontakt</h2>
               <p>Hotel Stříbravá</p>
               <p>Náměstí Svobody 12</p>
